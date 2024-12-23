@@ -1,2 +1,4 @@
 myenv/*
+venv/*
 daybk/media
+**/__pycache__
